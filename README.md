@@ -1,7 +1,7 @@
 
 # Socket Chat Server
 
-Chat Server using Python Sockets. 
+Chat Server & Terminal Chat App using Python Sockets. 
 
 ## Running the Project
 
