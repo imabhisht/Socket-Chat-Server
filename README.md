@@ -17,7 +17,7 @@ python client.py
 ```
 
   
-## Critical Improvement 
+## Improvement 
 For now, i'm using the input function from Python. Eventually, you would probably want to have some sort of GUI here, because the input is going to block the rest of the program from running/updating messages, which means you will have to send a message to see the updates. There are some OS specific methods you can use to get around this, but I am not going to get into that here. If you want to, feel free to research them and implement them. You can add a sys check at the beginning to determine what OS your client is running with.
   
 ```python
